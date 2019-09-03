@@ -86,5 +86,9 @@
         "workbench.editor.highlightModifiedTabs": true,
         "workbench.settings.enableNaturalLanguageSearch": false,
         "workbench.statusBar.feedback.visible": false,
-        "git.ignoreLimitWarning": true
+        "git.ignoreLimitWarning": true,
+        "python.autoComplete.extraPaths": [
+                "/home/d/catkin_ws/devel/lib/python2.7/dist-packages",
+                "/opt/ros/melodic/lib/python2.7/dist-packages"
+        ]
 }
